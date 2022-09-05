@@ -1,0 +1,2 @@
+#!/bin/bash
+-p etc/passwd etc/hosts
